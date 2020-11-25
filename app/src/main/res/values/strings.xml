@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SplashTest</string>
+    <string name="keyNightMode">nightmode:""</string>
+</resources>
